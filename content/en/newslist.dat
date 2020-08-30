@@ -1,0 +1,6 @@
+**[2020.07]** Our method **HRI-MSP-L** ranked first on the [KITTI cyclist detection benchmark](http://www.cvlibs.net/datasets/kitti/eval_3dobject.php) for all four tasks (2D, 3D, BEV, Orientation).
+**[2020.06]** [One paper](/en/publication/3d-instance-embedding-learning-with-a-structure-aware-loss-function-for-point-cloud-segmentation) accepted to IEEE Robotics and Automation Letters with joint IROS 2020 option.
+**[2020.01]** [One paper](/en/publication/fusing-geometrical-and-visual-information-via-superpoints-for-the-semantic-segmentation-of-3d-road-scenes/) accepted to Tsinghua Science and Technology.
+**[2019.02]** Our method [SALoss](/en/publication/3d-instance-embedding-learning-with-a-structure-aware-loss-function-for-point-cloud-segmentation) ranked first on the [ScanNet benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark) (3D instance segmentation).
+**[2019.01]** [One paper](/en/publication/hierarchical-depthwise-graph-convolutional-neural-network-for-3d-semantic-segmentation-of-point-clouds) accepted to ICRA 2019.
+**[2018.09]** Our method [HDGCN](/en/publication/hierarchical-depthwise-graph-convolutional-neural-network-for-3d-semantic-segmentation-of-point-clouds) ranked first on the [Paris-Lille-3D benchmark](https://npm3d.fr/paris-lille-3d) (3D semantic segmentation).

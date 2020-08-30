@@ -11,10 +11,30 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Zhidong Liang (梁志栋)"
+  title = "梁志栋的个人主页"
   [zh.params]
     description = "Site description in Chinese..."
   [[zh.menu.main]]
-    name = "Wo"
+    name = "关于我"
     url = "#about"
-    weight = 1
+    weight = 10
+
+  [[zh.menu.main]]
+    name = "新闻"
+    url = "#recent_news"
+    weight = 30
+
+  [[zh.menu.main]]
+    name = "出版物"
+    url = "#publications"
+    weight = 40
+  
+  [[zh.menu.main]]
+    name = "项目经历"
+    url = "#experience"
+    weight = 50
+
+  [[zh.menu.main]]
+    name = "联系方式"
+    url = "#contact"
+    weight = 60

@@ -1,0 +1,6 @@
+**[2020.07]** 我们的方法 **HRI-MSP-L** 在 [KITTI Cyclist检测 benchmark](http://www.cvlibs.net/datasets/kitti/eval_3dobject.php) 取得四项任务第一 (2D检测, 3D检测, BEV检测, 朝向检测).
+**[2020.06]** [一篇论文](/en/publication/3d-instance-embedding-learning-with-a-structure-aware-loss-function-for-point-cloud-segmentation) 被 IEEE Robotics and Automation Letters (IROS 2020 option) 接收.
+**[2020.01]** [一篇论文](/en/publication/fusing-geometrical-and-visual-information-via-superpoints-for-the-semantic-segmentation-of-3d-road-scenes/) 被 Tsinghua Science and Technology 接收.
+**[2019.02]** 我们的方法 [SALoss](/en/publication/3d-instance-embedding-learning-with-a-structure-aware-loss-function-for-point-cloud-segmentation) 在 [ScanNet benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark) (3D实例分割任务)中取得第一.
+**[2019.01]** [一篇论文](/en/publication/hierarchical-depthwise-graph-convolutional-neural-network-for-3d-semantic-segmentation-of-point-clouds) 被 ICRA 2019 接收.
+**[2018.09]** 我们的方法 [HDGCN](/en/publication/hierarchical-depthwise-graph-convolutional-neural-network-for-3d-semantic-segmentation-of-point-clouds) 在 [Paris-Lille-3D benchmark](https://npm3d.fr/paris-lille-3d) (3D语义分割任务) 中取得第一。
